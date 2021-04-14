@@ -11,3 +11,15 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.nav {
+  padding: 10px 40px;
+  background-color: lightgrey;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
